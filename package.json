@@ -1,0 +1,19 @@
+{
+  "name": "ajs_pure_function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegLobantsev/ajs_pure_function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlegLobantsev/ajs_pure_function/issues"
+  },
+  "homepage": "https://github.com/OlegLobantsev/ajs_pure_function#readme",
+  "description": ""
+}
