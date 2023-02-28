@@ -6,5 +6,5 @@ test.each([
   [{ name: 'Черт', health: 1 }, 'critical'],
 ])('return string', (obj, expected) => {
   const result = playerHealth(obj);
-  expect(result).toBe(expected);
+  expected(result).toBe(expected);
 });
